@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data",
-    "\\data\\authors",
     "\\data\\blog",
-    "\\data\\blog\\nested-route",
-    "\\layouts",
-    "\\pages",
-    "\\pages\\blog",
     "\\public\\static",
-    "\\public\\static\\images"
+    "\\public\\static\\favicons"
   ],
-  "SelectedNode": "\\data\\authors\\default.md",
+  "SelectedNode": "\\css",
   "PreviewInSolutionExplorer": false
 }
